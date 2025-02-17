@@ -19,11 +19,6 @@
         "muted"
       ],
       "default": "muted"
-    },
-    "faq": {
-      "type": "component",
-      "repeatable": true,
-      "component": "shared.question-answer"
     }
   }
 }

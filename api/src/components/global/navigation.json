@@ -5,21 +5,5 @@
     "icon": "location-arrow"
   },
   "options": {},
-  "attributes": {
-    "links": {
-      "type": "component",
-      "repeatable": true,
-      "component": "shared.link"
-    },
-    "leftButton": {
-      "type": "component",
-      "repeatable": false,
-      "component": "shared.link"
-    },
-    "rightButton": {
-      "type": "component",
-      "repeatable": false,
-      "component": "shared.link"
-    }
-  }
+  "attributes": {}
 }

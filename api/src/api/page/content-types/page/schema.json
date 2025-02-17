@@ -47,24 +47,13 @@
         "blocks.pricing",
         "blocks.related-articles",
         "blocks.related-restaurants",
-        "blocks.team",
-        "blocks.testimonial"
+        "blocks.team"
       ],
       "pluginOptions": {
         "i18n": {
           "localized": true
         }
       }
-    },
-    "seo": {
-      "type": "component",
-      "repeatable": false,
-      "pluginOptions": {
-        "i18n": {
-          "localized": true
-        }
-      },
-      "component": "shared.seo"
     }
   }
 }

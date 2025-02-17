@@ -5,11 +5,5 @@
     "icon": "align-left"
   },
   "options": {},
-  "attributes": {
-    "links": {
-      "type": "component",
-      "repeatable": true,
-      "component": "shared.link"
-    }
-  }
+  "attributes": {}
 }

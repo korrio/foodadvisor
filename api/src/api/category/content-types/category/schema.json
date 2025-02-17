@@ -19,12 +19,6 @@
       "type": "uid",
       "targetField": "name"
     },
-    "restaurants": {
-      "type": "relation",
-      "relation": "oneToMany",
-      "target": "api::restaurant.restaurant",
-      "mappedBy": "category"
-    },
     "articles": {
       "type": "relation",
       "relation": "oneToMany",
